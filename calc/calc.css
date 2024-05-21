@@ -1,0 +1,24 @@
+#c1{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 170px;
+}
+#inp1{
+    margin: 10px;
+    width: 70%;
+}
+.bbs{
+    width: 45px;
+    height: 45px;
+    margin: 4px;
+    font-size: 20px;
+}
+.buttons1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+body{
+    display: flex;
+    margin:50px 50px;
+}
